@@ -1,7 +1,7 @@
 [Variables]
 Author=Evans Stenakis
 Name=Variables
-Version=Summer 2020
+Version=Final
 License=Creative Commons Attribution-Non-Commercial-Share Alike 3.0
 
 ;;--------------------------------------------
@@ -12,23 +12,23 @@ BE CAREFUL NOT TO CHANGE THE VARIABLES NAMES
 
 ;;----------Profile picture and name----------
 
-UserImagePath=#@#Particles\User\Icon.jpg
-UserName=%username%
+UserImagePath=C:\Users\ervan\Desktop\New Logo.jpg
+UserName=evans
 
 ;;----------Wallpapers Directories----------
 
-MorningWP=#@#Wallpapers\Morning.jpg
-NoonWP=#@#Wallpapers\Noon.jpg
-AfternoonWP=#@#Wallpapers\Afternoon.jpg
-EveningWP=#@#Wallpapers\Evening.jpg
-NightWP=#@#Wallpapers\Night.jpg
+MorningWP=#@#Wallpapers\Flat\Morning.jpg
+NoonWP=#@#Wallpapers\Flat\Noon.jpg
+AfternoonWP=#@#Wallpapers\Flat\Afternoon.jpg
+EveningWP=#@#Wallpapers\Flat\Evening.jpg
+NightWP=#@#Wallpapers\Flat\Night.jpg
 
 ;;----------Time Stamps----------
 
-MorningHour=06
+MorningHour=05
 NoonHour=12
 AfternoonHour=16
-EveningHour=20
+EveningHour=19
 NightHour=23
 
 ;;----------Quotes----------
@@ -41,30 +41,30 @@ Night=Good Night
 
 ;;----------Shortcuts Directories----------
 
-Icon1Path=C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Icon1Path=C:\Users\ervan\AppData\Roaming\Spotify\Spotify.exe
 Icon2Path=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-Icon3Path=C:\Program Files (x86)\Steam\steam.exe
-Icon4Path=photoshop.exe
+Icon3Path=C:\Program Files(x86)\Steam\steam.exe
+Icon4Path=C:\Riot Games\League of Legends\LeagueClient.exe
 Icon5Path=photoshop.exe
 Icon6Path=www.deviantart.com
-Icon7Path=C:\Users\ervan\AppData\Roaming\Spotify\Spotify.exe
-Icon8Path=winword.exe
+Icon7Path=C:\ProgramData\ervan\Microsoft\Teams\Update.exe
+Icon8Path=https://app.mystudylife.com/calendar
 
 ;;----------Icons Directories----------
 
-Icon1Name=chrome.png  
-Icon2Name=edge.png
-Icon3Name=steam.png
-Icon4Name=photoshop.png
+Icon1Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\spotify.png  
+Icon2Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\edge.png
+Icon3Name=#@#Particles\Desktop Shortcuts\steam.png
+Icon4Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\league.png
 Icon5Name=#@#Particles\Desktop Shortcuts\photoshop.png
-Icon6Name=deviantart.png
-Icon7Name=spotify.png
-Icon8Name=word.png
+Icon6Name=#@#Particles\Desktop Shortcuts\deviantart.png
+Icon7Name=C:\Users\ervan\Desktop\Icons\Microsoft Teams.png
+Icon8Name=C:\Users\ervan\Desktop\Icons\MyStudyLife.png
 
 ;;----------Adaptive Colors----------
 
 MColor=157,101,130
-NColor=71,118,134
+NColor=72,119,135
 AColor=85,145,107
 EColor=255,127,80
 NTColor=136,51,110
@@ -72,7 +72,7 @@ NTColor=136,51,110
 ;;----------Others----------
 
 Language=en-US
-Accent=136,51,110
+Accent=85,145,107
 ClipString=460.8
 
 
@@ -83,7 +83,7 @@ ClipString=460.8
 
 ;;----------Music Player Data (*)----------
 
-AudioPlayerName=Spotify
+AudioPlayerName=WebPlayer
 Music=WebNowPlaying.dll
 
 
