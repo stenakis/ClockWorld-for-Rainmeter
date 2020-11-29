@@ -11,4 +11,4 @@ Music Player supporting WebPlayer!*<br>
 Desktop Shortcuts<br>
 Modern Settings UI<br>
 
-For any questions you can send us an email at: contactclockworld@gmail.com
+For any questions you can send us an email at: ervans589@gmail.com
