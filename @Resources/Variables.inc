@@ -1,7 +1,7 @@
 [Variables]
 Author=Evans Stenakis
 Name=Variables
-Version=Final
+Version=Tropical
 License=Creative Commons Attribution-Non-Commercial-Share Alike 3.0
 
 ;;--------------------------------------------
@@ -12,7 +12,7 @@ BE CAREFUL NOT TO CHANGE THE VARIABLES NAMES
 
 ;;----------Profile picture and name----------
 
-UserImagePath=C:\Users\ervan\Desktop\New Logo.jpg
+UserImagePath=D:\Evans\Pictures\People\Self\IMG_20201018_212052.png
 UserName=evans
 
 ;;----------Wallpapers Directories----------
@@ -44,7 +44,7 @@ Night=Good Night
 Icon1Path=C:\Users\ervan\AppData\Roaming\Spotify\Spotify.exe
 Icon2Path=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
 Icon3Path=C:\Program Files(x86)\Steam\steam.exe
-Icon4Path=C:\Riot Games\League of Legends\LeagueClient.exe
+Icon4Path=winword.exe
 Icon5Path=photoshop.exe
 Icon6Path=www.deviantart.com
 Icon7Path=C:\ProgramData\ervan\Microsoft\Teams\Update.exe
@@ -55,7 +55,7 @@ Icon8Path=https://app.mystudylife.com/calendar
 Icon1Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\spotify.png  
 Icon2Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\edge.png
 Icon3Name=#@#Particles\Desktop Shortcuts\steam.png
-Icon4Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\league.png
+Icon4Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\word.png
 Icon5Name=#@#Particles\Desktop Shortcuts\photoshop.png
 Icon6Name=#@#Particles\Desktop Shortcuts\deviantart.png
 Icon7Name=C:\Users\ervan\Desktop\Icons\Microsoft Teams.png
@@ -72,7 +72,7 @@ NTColor=136,51,110
 ;;----------Others----------
 
 Language=en-US
-Accent=85,145,107
+Accent=72,119,135
 ClipString=460.8
 
 
@@ -83,8 +83,8 @@ ClipString=460.8
 
 ;;----------Music Player Data (*)----------
 
-AudioPlayerName=WebPlayer
-Music=WebNowPlaying.dll
+AudioPlayerName=Spotify
+Music=NowPlaying.dll
 
 
 
