@@ -11,8 +11,8 @@ Music Player supporting WebPlayer!*<br>
 Desktop Shortcuts<br>
 Modern Settings UI<br>
 
-<b>Known Rainmeter Issues</b>
-Selecting a profile picture greater than 2000px will cause a CPU overload in skin animations. (Tropical Update)
-Wallpapers may fail to change when the CPU is overloaded (>80%)
+<p><b>Known Rainmeter Issues</b></p>
+<p>Selecting a profile picture greater than 2000px will cause a CPU overload in skin animations. (Tropical Update)</p>
+<p>Wallpapers may fail to change when the CPU is overloaded (>80%)</p>
 
 For any questions you can send us an email at: ervans589@gmail.com
