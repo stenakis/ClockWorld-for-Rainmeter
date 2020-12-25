@@ -4,89 +4,52 @@ Name=Variables
 Version=Tropical
 License=Creative Commons Attribution-Non-Commercial-Share Alike 3.0
 
-;;--------------------------------------------
-
-
-BE CAREFUL NOT TO CHANGE THE VARIABLES NAMES
-
-
-;;----------Profile picture and name----------
-
-UserImagePath=D:\Evans\Pictures\People\Self\IMG_20201018_212052.png
-UserName=evans
-
-;;----------Wallpapers Directories----------
-
+UserImagePath=#@#Particles\User\Icon.jpg                        
+UserName=%username%                                                                 
 MorningWP=#@#Wallpapers\Flat\Morning.jpg
 NoonWP=#@#Wallpapers\Flat\Noon.jpg
 AfternoonWP=#@#Wallpapers\Flat\Afternoon.jpg
 EveningWP=#@#Wallpapers\Flat\Evening.jpg
 NightWP=#@#Wallpapers\Flat\Night.jpg
-
-;;----------Time Stamps----------
-
 MorningHour=05
 NoonHour=12
 AfternoonHour=16
-EveningHour=19
-NightHour=23
-
-;;----------Quotes----------
-
+EveningHour=18
+NightHour=22
 Morning=Good Morning
 Noon=Good Noon
 Afternoon=Good Afternoon
 Evening=Good Evening
 Night=Good Night
-
-;;----------Shortcuts Directories----------
-
-Icon1Path=C:\Users\ervan\AppData\Roaming\Spotify\Spotify.exe
+Icon1Path=C:\Users\%USERNAME%\AppData\Roaming\Spotify\Spotify.exe
 Icon2Path=C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
-Icon3Path=C:\Program Files(x86)\Steam\steam.exe
-Icon4Path=winword.exe
-Icon5Path=photoshop.exe
-Icon6Path=www.deviantart.com
-Icon7Path=C:\ProgramData\ervan\Microsoft\Teams\Update.exe
-Icon8Path=https://app.mystudylife.com/calendar
-
-;;----------Icons Directories----------
-
-Icon1Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\spotify.png  
-Icon2Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\edge.png
-Icon3Name=#@#Particles\Desktop Shortcuts\steam.png
-Icon4Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Particles\Desktop Shortcuts\word.png
-Icon5Name=#@#Particles\Desktop Shortcuts\photoshop.png
-Icon6Name=#@#Particles\Desktop Shortcuts\deviantart.png
-Icon7Name=C:\Users\ervan\Desktop\Icons\Microsoft Teams.png
-Icon8Name=C:\Users\ervan\Desktop\Icons\MyStudyLife.png
-
-;;----------Adaptive Colors----------
-
+Icon3Path=C:\Program Files (x86)\Steam\steam.exe
+Icon4Path=photoshop.exe
+Icon5Path=illustrator.exe
+Icon6Path=winword.exe
+Icon7Path=powerpnt.exe
+Icon8Path=excel.exe
+Icon1Name=#@#Particles\Shortcuts\spotify.png  
+Icon2Name=#@#Particles\Shortcuts\edge.png
+Icon3Name=#@#Particles\Shortcuts\steam.png
+Icon4Name=#@#Particles\Shortcuts\photoshop.png
+Icon5Name=#@#Particles\Shortcuts\illustrator.png
+Icon6Name=#@#Particles\Shortcuts\word.png
+Icon7Name=#@#Particles\Shortcuts\powerpoint.png
+Icon8Name=#@#Particles\Shortcuts\excel.png
 MColor=157,101,130
 NColor=72,119,135
 AColor=85,145,107
-EColor=255,127,80
+EColor=196,84,47
 NTColor=136,51,110
-
-;;----------Others----------
-
-Language=en-US
-Accent=72,119,135
-ClipString=460.8
-
-
-
-
-
-
-
-;;----------Music Player Data (*)----------
-
+LineWidth=700
+Accent=157,101,130
+CMode=250,250,250
+OMode=50,50,50
+Plugin=ActionTimer 
+Language=en-us
+Mode=0
+MusicFont=Google sans
+Font=Sailors
 AudioPlayerName=Spotify
 Music=NowPlaying.dll
-
-
-
-(*) BACKUP BEFORE CHANGING VALUES
-
