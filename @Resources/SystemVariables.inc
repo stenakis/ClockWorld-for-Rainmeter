@@ -13,4 +13,3 @@ MusicFont=Google sans
 Font=Sailors
 Music=NowPlaying.dll
 AudioPlayerName=Spotify
-Accent=114,86,115

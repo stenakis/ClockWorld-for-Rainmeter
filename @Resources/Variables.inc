@@ -4,8 +4,8 @@ Name=Variables
 Version=Tropical
 License=Creative Commons Attribution-Non-Commercial-Share Alike 3.0
 
-UserImagePath=C:\Users\ervan\Desktop\IMG_20201126_194409_801.jpg
-UserName=evans                                                                   
+UserImagePath=#@#Particles\User\Icon.jpg
+UserName=%username%                                                                  
 MorningWP=#@#Wallpapers\Flat\Morning.jpg
 NoonWP=#@#Wallpapers\Flat\Noon.jpg
 AfternoonWP=#@#Wallpapers\Flat\Afternoon.jpg
@@ -43,4 +43,4 @@ NColor=72,119,135
 AColor=85,145,107
 EColor=194,86,48
 NTColor=136,51,110
-Accent=85,145,107
+Accent=136,51,110
