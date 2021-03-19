@@ -11,5 +11,5 @@ Plugin=ActionTimer
 Mode=1
 MusicFont=Google sans
 Font=Sailors
-Music=NowPlaying.dll
-AudioPlayerName=Spotify
+Music=WebNowPlaying.dll
+AudioPlayerName=WebPlayer
