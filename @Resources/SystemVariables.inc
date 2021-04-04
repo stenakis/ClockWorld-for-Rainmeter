@@ -13,3 +13,7 @@ MusicFont=Google sans
 Font=Sailors
 Music=WebNowPlaying.dll
 AudioPlayerName=WebPlayer
+ShW=30
+ShH=30
+PrH=100
+ClH=20
