@@ -43,5 +43,5 @@ NColor=72,119,135
 AColor=85,145,107
 EColor=194,86,48
 NTColor=136,51,110
-Accent=136,51,110
+Accent=85,145,107
 IncoLink=www.google.com

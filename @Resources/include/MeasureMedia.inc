@@ -8,3 +8,4 @@ Measure=Plugin
 Plugin=#Music#
 PlayerType=State
 UpdateDivider=2
+PlayerName=#AudioPlayerName#
