@@ -10,3 +10,13 @@ Clock / Calendar<br>
 Music Player supporting WebPlayer!*<br>
 Desktop Shortcuts<br>
 Modern Settings UI<br>
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('ervans589', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#00b9fe',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
