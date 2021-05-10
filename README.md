@@ -1,4 +1,5 @@
 # ClockWorld for Rainmeter
+<body>
 Introducing ClockWorld Tropical update!
 <p> This update includes changes to Settings, customizability and fluency
 This time, we re-writed the code from the ground up. We achieved solving lost-lasting bugs and make the coding experience easier both for us and for you! </p>
@@ -11,12 +12,8 @@ Music Player supporting WebPlayer!*<br>
 Desktop Shortcuts<br>
 Modern Settings UI<br>
 
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('ervans589', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#00b9fe',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ervans589/ClockWorld-for-Rainmeter" data-icon="octicon-star" aria-label="Star ervans589/ClockWorld-for-Rainmeter on GitHub">Star</a>
+
+
+</body>
