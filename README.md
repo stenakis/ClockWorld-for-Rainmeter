@@ -10,4 +10,6 @@ Clock / Calendar<br>
 Music Player supporting WebPlayer!*<br>
 Desktop Shortcuts<br>
 Modern Settings UI<br>
- 
+<br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T24HA0B)
