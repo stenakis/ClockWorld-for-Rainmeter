@@ -1,6 +1,6 @@
 [Variables]
-UserImagePath=#@#Particles\User\Icon.jpg
-UserName=%username%                                                                  
+UserImagePath=C:\Users\ervan\Desktop\IMG_20201126_194409_801.jpg
+UserName=evans                                                                  
 MorningWP=#@#Wallpapers\Flat\Morning.jpg
 NoonWP=#@#Wallpapers\Flat\Noon.jpg
 AfternoonWP=#@#Wallpapers\Flat\Afternoon.jpg
@@ -28,5 +28,5 @@ Icon6Name=#@#Particles\Shortcuts\word.png
 Icon7Name=#@#Particles\Shortcuts\league.png
 Icon8Name=#@#Particles\Shortcuts\MTeams.png
 Language=en-us
-Accent=82,135,153
+Accent=51,142,133
 WidthMult=17

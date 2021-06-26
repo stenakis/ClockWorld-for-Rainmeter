@@ -2,6 +2,7 @@
 ;Alphabetical Order
 AddTranslation=Ajouter Une Traduction
 Afternoon=Après-midi
+AlbumCover=Couverture de l'album
 Angle_=Angle
 Animations=Animations
 BarHeight_=Taille de barres
@@ -74,8 +75,8 @@ Do you wish to put your computer to sleep?=Voulez-vous mettre votre ordinateur e
 Do you wish to restart your computer?=Souhaitez-vous redémarrer votre ordinateur?
 Do you wish to shut down your computer?=Souhaitez-vous éteindre votre ordinateur?
 Games from gaming platforms cannot be launched separately. (ex. Steam, Epic Games)=Les jeux des plates-formes de jeux ne peuvent pas être lancès separement. (ex. Steam, Epic Games)
+PersistentMediaControls=Contrôles des médias persistants
 Is available!=est disponible!
-Limits the width of song information=Limite la largeur des informations de la chanson
-Limited use for some players=Utilisation limitee pour certains lecteurs de musique
+ShowCurrentPlaybackDevice=Afficher le périphérique de lecture actuel
 Up to date=à jour
 Using Dev Version=Version De Dev

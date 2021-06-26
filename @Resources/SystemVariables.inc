@@ -25,5 +25,5 @@ NColor=82,135,153
 AColor=51,142,133
 EColor=143,52,59
 NTColor=150,50,78
-version=21.06.01
+version=21.05.01
 Translation=English

@@ -2,6 +2,7 @@
 ;Alphabetical Order
 AddTranslation=Add Translation
 Afternoon=Afternoon
+AlbumCover=Album Cover
 Angle_=Angle
 Animations=Animations
 BarHeight_=Bar Height
@@ -75,7 +76,7 @@ Do you wish to restart your computer?=Do you wish to restart your computer?
 Do you wish to shut down your computer?=Do you wish to shut down your computer?
 Games from gaming platforms cannot be launched separately. (ex. Steam, Epic Games)=Games from gaming platforms cannot be launched separately. (ex. Steam, Epic Games)
 Is available!=Is available!
-Limits the width of song information=Limits the width of song information
-Limited use for some players=Limited use for some players
+PersistentMediaControls=Persistent media controls
+ShowCurrentPlaybackDevice=Show Current Playback Device
 Up to date=Up to date
 Using Dev Version=Using Dev Version
