@@ -1,4 +1,4 @@
-# ClockWorld for Rainmeter
+# ClockWorld Fluent
 
 ClockWorld Fluent update includes a number of big changes, from design to bug fixes and UX improvements.
 
