@@ -1,9 +1,9 @@
 # ClockWorld for Rainmeter
-Introducing ClockWorld Tropical update!
-<p> This update includes changes to Settings, customizability and fluency
-This time, we re-writed the code from the ground up. We achieved solving lost-lasting bugs and make the coding experience easier both for us and for you! </p>
+
+ClockWorld Fluent update includes a number of big changes, from design to bug fixes and UX improvements.
 
 <h2>Features</h2>
+<b>Automatic OTA updates</b><br>
 Adaptive Quotes<br>
 Adaptive Wallpapers<br>
 Clock / Calendar<br>
