@@ -1,6 +1,7 @@
 # ClockWorld Fluent
 
-ClockWorld Fluent update includes a number of big changes, from design to bug fixes and UX improvements.
+ClockWorld Fluent update includes a number of big changes, from design to bug fixes and UX improvements.<br><br>
+[![Crowdin](https://badges.crowdin.net/clockworld-for-rainmeter/localized.svg)](https://crowdin.com/project/clockworld-for-rainmeter)
 
 <h2>Features</h2>
 <b>Automatic OTA updates</b><br>
