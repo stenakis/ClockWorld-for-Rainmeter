@@ -1,8 +1,4 @@
 [Variables]
-; (Do not contain "(Title)" in the translation)
-; If your language contains one or all of those, leave the word unchanged.
-; This section contains data that their font does not support punctuations and special characters.
-
 About=About
 Alarm0=Alarm
 Attention!=Attention!
@@ -24,6 +20,7 @@ Current backup is placed in Rainmeter/Skins/@Vault=Current backup is placed in R
 Current=Current
 Custom file=Custom file
 Custom icon=Custom icon
+Contribute On=Contribute on
 Day format=Day format
 Disclaimer=Disclaimer
 Download=Download
@@ -33,9 +30,8 @@ GoodMorning=Good Morning
 GoodNight=Good Night
 GoodNoon=Good Noon
 Hidden=Hidden
-If weather does not load, restart Rainmeter=If weather does not load, restart Rainmeter
-Location error=Location error
-Location0=Location
+Language (Title)=Language
+Language_=Language
 Month format=Month format
 Name0=Name
 Persistent media controls=Persistent media controls

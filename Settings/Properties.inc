@@ -1,9 +1,12 @@
 [Variables]
+@include=#@#Variables.inc
 Value=15
+XStartPosition=260
+YStartPosition=110
 
 [XButtonProperties]
 ImageName=#@#Assets\Settings\Exit.png
-X=665
+X=635
 Y=15
 W=20
 H=20
@@ -15,45 +18,56 @@ MouseLeaveAction=[!HideMeter ObjectXButton][!Update][!Redraw]
 
 [BigTextProperties]
 FontFace=Summer Loving 
-FontSize=80
+FontSize=60
 FontColor=#Accent#
 StringAlign=Left
 AntiAlias=1
-X=280
-Y=-10
+X=#XStartPosition#
+Y=5
 InlineSetting=CharacterSpacing | 1 | 1
 InlineSetting2=GradientColor | -90 | #Accent#,255 ; 0.0 | #Accent#,200 ; 0.8 | #Accent#,50 ; 1.0
 
 [IconsStyle]
 W=20
-X=35
+X=30
+DynamicVariables=1
 
-[OptionsStyle]
-FontFace=#MainFont#
-FontSize=14
-FontColor=#OMode#
+[MenuStyle]
+FontFace=#Font#
+FontSize=12
+FontColor=#OMode#,200
 StringAlign=Left
 AntiAlias=1
 X=40r
-Y=-2r
+Y=0r
+InlineSetting=CharacterSpacing | 0.2 | 0.2
 MouseLeaveAction=[!HideMeter ObjectMenuRectangle][!Update][!Redraw]
 
 [SubtitleStyle]
-FontColor=#Accent#
-FontSize=15
-FontFace=#Font#
-AntiAlias=1
-X=280
-StringAlign=Left
-
-[DescriptionStyle]
 FontColor=#OMode#
 FontSize=13
 FontFace=#Font#
 AntiAlias=1
+X=#XStartPosition#
+StringAlign=Left
+
+[ButtonStyle]
+FontColor=#OMode#
+FontSize=11
+FontFace=#Font#
+AntiAlias=1
 StringAlign=Center
+ClipString=1
+
+[DescriptionStyle]
+FontColor=#OMode#,100
+FontSize=9
 StringCase=Upper
-InlineSetting=CharacterSpacing | 0.2 | 0.2
+FontFace=#ClockFont#
+AntiAlias=1
+StringAlign=Left
+InlineSetting=CharacterSpacing | 1 | 1
+X=#XStartPosition#
 
 [ShortcutsIconProperties]
 Y=(#SCREENAREAHEIGHT# - (#height# + 55*#Mult#))
