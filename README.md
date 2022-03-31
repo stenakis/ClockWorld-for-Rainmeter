@@ -1,16 +1,17 @@
 # ClockWorld Fluent
+ClockWorld Fluent update includes a number of big changes, from design to bug fixes and UX improvements.<br>
 
-ClockWorld Fluent update includes a number of big changes, from design to bug fixes and UX improvements.<br><br>
-[![Crowdin](https://badges.crowdin.net/clockworld-for-rainmeter/localized.svg)](https://crowdin.com/project/clockworld-for-rainmeter)
+
 
 <h2>Features</h2>
 <b>Automatic OTA updates</b><br>
 Adaptive Quotes<br>
 Adaptive Wallpapers<br>
 Clock / Calendar<br>
-Music Player supporting WebPlayer!*<br>
+Music Player supporting WebPlayer!<br>
 Desktop Shortcuts<br>
 Modern Settings UI<br>
+Multiple languages support<br>
 <br>
 
 # Q & A
@@ -30,3 +31,6 @@ Modern Settings UI<br>
 <b>Q:</b> How can I change the default music player?<br>
 <b>A:</b> If the player is displaying a track: Just hover over the Visualizer and click the "<" button on the left to open the Music Players menu and select your desired one. The skin will save your selection until you change it again.<br>
 If the player is closed: Click the current player icon and select your desired one.
+
+# Translation
+[![Crowdin](https://badges.crowdin.net/clockworld-for-rainmeter/localized.svg)](https://crowdin.com/project/clockworld-for-rainmeter)
