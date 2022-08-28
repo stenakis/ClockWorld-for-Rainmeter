@@ -1,0 +1,5 @@
+• Update notes are now available!
+• Added translation for: French, Russian
+• Updated localization of: English, Greek
+• Minor UI changes
+• Fixed known bugs

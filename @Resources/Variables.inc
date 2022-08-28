@@ -1,6 +1,6 @@
 [Variables]
 UserImagePath=#@#Assets\User\SafeHouseLogo.jpg
-UserName=ervan                                                                 
+UserName=%username%                                                                 
 MorningWP=#@#Wallpapers\Flat\Morning.jpg
 NoonWP=#@#Wallpapers\Flat\Noon.jpg
 AfternoonWP=#@#Wallpapers\Flat\Afternoon.jpg
@@ -26,7 +26,7 @@ Icon3Name=#@#Assets\Shortcuts\steam.png
 Icon4Name=#@#Assets\Shortcuts\illustrator.png 
 Icon5Name=#@#Assets\Shortcuts\deviantart.png
 Icon6Name=#@#Assets\Shortcuts\word.png
-Icon7Name=#@#Assets\Shortcuts\league.png
+Icon7Name=C:\Users\ervan\Documents\Rainmeter\Skins\ClockWorld\@Resources\Assets\Shortcuts\league.png 
 Icon8Name=#@#Assets\Shortcuts\MTeams.png
 Language=en-US
 Accent=82,135,153
@@ -58,9 +58,7 @@ NColor=82,135,153
 AColor=51,142,133
 EColor=143,52,59
 NTColor=150,50,78
-version=22.04.01
-Units=m
-Degree=c
+version=22.08.28
 AlarmHour=21
 AlarmMinutes=07
 Carousel=0

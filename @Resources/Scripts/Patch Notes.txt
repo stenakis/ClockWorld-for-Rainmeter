@@ -1,0 +1,5 @@
+22.08.28 Update Notes
+
+• Update notes are now available!
+• Completed translation for: French
+• Updated localiaztion of: English, Greek
