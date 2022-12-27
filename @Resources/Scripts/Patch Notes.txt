@@ -1,5 +1,5 @@
-22.08.28 Update Notes
+22.12.28 Update Notes
+Long time no see! 3 months since the last update.
 
-• Update notes are now available!
-• Completed translation for: French
-• Updated localiaztion of: English, Greek
+• Fixed a bug where users could not change time stamps in Wallpapers via Settings.
+• Minor tweaks in Settings
