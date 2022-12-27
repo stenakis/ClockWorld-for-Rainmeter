@@ -1,5 +1,0 @@
-• Update notes are now available!
-• Added translation for: French, Russian
-• Updated localization for: English, Greek
-• Updates will no longer reset custom user settings
-• Fixed known bugs

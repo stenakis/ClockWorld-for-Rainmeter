@@ -1,5 +1,0 @@
-22.12.28 Update Notes
-Long time no see! 3 months since the last update.
-
-• Fixed a bug where users could not change time stamps in Wallpapers via Settings.
-• Minor tweaks in Settings
