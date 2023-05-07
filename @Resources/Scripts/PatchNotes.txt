@@ -1,3 +1,4 @@
 • Added the option to turn off Wallpaper carousel in Introduction screen
 • "Wallpaper carousel" in Settings will now toggle Wallpapers
 • Deleted unnecessary files
+• Variables won't change when updating over-the-air
