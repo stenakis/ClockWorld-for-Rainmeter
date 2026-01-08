@@ -1,5 +1,5 @@
 [Variables]
-@include=#@#Variables.inc
+@include=#@#SystemVariables.inc
 Value=15
 XStartPosition=260
 YStartPosition=110
@@ -63,7 +63,7 @@ ClipString=1
 FontColor=#OMode#,100
 FontSize=9
 StringCase=Upper
-FontFace=#ClockFont#
+FontFace=#Font#
 AntiAlias=1
 StringAlign=Left
 InlineSetting=CharacterSpacing | 1 | 1
