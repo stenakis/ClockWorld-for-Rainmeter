@@ -36,4 +36,4 @@ If the player is closed: Click the current player icon and select your desired o
 [![Crowdin](https://badges.crowdin.net/clockworld-for-rainmeter/localized.svg)](https://crowdin.com/project/clockworld-for-rainmeter)
 
 # Error handling
-When launching Updater, if the error "THIS FILE IS NOT DIGITALLY SIGNED" follow this guide:<br> https://caiomsouza.medium.com/fix-for-powershell-script-not-digitally-signed-69f0ed518715
+When launching Updater, if the error "THIS FILE IS NOT DIGITALLY SIGNED" follow this guide:<br> [https://caiomsouza.medium.com/fix-for-powershell-script-not-digitally-signed-69f0ed518715](https://learn.microsoft.com/en-us/answers/questions/1275786/the-file-is-not-digitally-signed-you-can-not-run-t)
