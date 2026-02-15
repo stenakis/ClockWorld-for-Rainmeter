@@ -1,3 +1,2 @@
-• Fixed not working fonts
-• Fixed a PowerShell error when updating OTA
-• Fixed "Using dev version" error
+• New! Fixed translation issues and added: German
+• Fixed an issue where wallpapers would not change
